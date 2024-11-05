@@ -2,6 +2,7 @@
     <h1>Welcome to Unit Testing!</h1>
     <button @click="genRanNum()">Generate random Number</button>
     <h2>{{random_number}}</h2>
+    <h3> Testing actions</h3>
 </template>
 
 <script>
